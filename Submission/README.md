@@ -4,7 +4,7 @@
 ```
 pipenv install
 pipenv shell
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install numpy pandas matplotlib seaborn streamlit
 ```
 
 ## Run steamlit app
